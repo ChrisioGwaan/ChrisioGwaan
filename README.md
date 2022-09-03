@@ -1,8 +1,6 @@
-### You there 👋
-
+## G'Day 👋 My name is Chrisio and I lived in Australia. <br/>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/weixi-guan-705a48208/)
 <!--
-**ChrisioGwaan/ChrisioGwaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
