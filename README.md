@@ -1,5 +1,10 @@
 ## G'Day 👋 My name is Chrisio and I lived in Australia. <br/>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/weixi-guan-705a48208/)
+
+- :ledger: I'm a currently 2nd year bachelor of Software Engineering student in Royal Melbourne Institute of Technology University.
+- :computer: Prefer Java, Python, C++
+
+
 <!--
 Here are some ideas to get you started:
 
