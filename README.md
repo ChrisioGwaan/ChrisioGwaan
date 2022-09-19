@@ -4,7 +4,7 @@
 - :ledger: I'm a currently 2nd year bachelor of Software Engineering student in Royal Melbourne Institute of Technology University.
 - :computer: Prefer Java, C++, Python
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&show_icons=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&show_icons=true&title_color=7cfc8f)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
