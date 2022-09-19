@@ -5,7 +5,7 @@
 - :computer: Prefer Java, C++, Python
 - ⚡ Fun fact: Chris + inovation in the open. --- Chrisio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&show_icons=true&title_color=ffa412)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
