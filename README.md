@@ -3,7 +3,7 @@
 
 - :ledger: *I’m a currently 2nd year bachelor of Software Engineering student in Royal Melbourne Institute of Technology University.*
 - :computer: *Prefer `Java`, `C++`, `Python`*
-- 🔭 *I’m interested in `Spring Boot with MySQL`, `MCPI API`*
+- 🔭 *Experience in `Spring Boot with MySQL`, `MCPI API`*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412&include_all_commits=true&count_private=true&hide=issues,prs)](https://github.com/ChrisioGwaan)
 
