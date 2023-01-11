@@ -6,7 +6,7 @@
 - 🔭 *Experience in `Spring Boot with Java`, `MySQL`, `MCPI API`*
 - More details on my [CV](https://drive.google.com/file/d/122XA9le__W-snn56kW7zvyecsAq69Bsf/view?usp=sharing).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412&include_all_commits=true&count_private=true&hide=issues,prs)](https://github.com/ChrisioGwaan)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412&include_all_commits=true&count_private=true&hide=issues,prs)](https://github.com/ChrisioGwaan) -->
 
 <!--
 Here are some ideas to get you started:
