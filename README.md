@@ -4,7 +4,7 @@
 - :ledger: *I’m a currently 3rd year bachelor of Software Engineering student in Royal Melbourne Institute of Technology University.*
 - :computer: *Prefer `Java`, `C++`, `Python`*
 - 🔭 *Experience in `Spring Boot with Java`, `MySQL`, `MCPI API`*
-- More details on my [CV](https://drive.google.com/file/d/122XA9le__W-snn56kW7zvyecsAq69Bsf/view?usp=sharing).
+- More details on my [CV]([https://drive.google.com/file/d/122XA9le__W-snn56kW7zvyecsAq69Bsf/view?usp=sharing](https://drive.google.com/file/d/1qQOCAom__Tfbzdkj4pEX35Pydjq9f9et/view?usp=sharing).
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412&include_all_commits=true&count_private=true&hide=issues,prs)](https://github.com/ChrisioGwaan) -->
 
