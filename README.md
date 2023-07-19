@@ -1,9 +1,5 @@
-## G'Day 👋<br/>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/weixi-guan-705a48208/) [<img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="16" height="16"/> Twitter](https://twitter.com/Chrisio_Gwaan)
 
-- :ledger: *I’m a current 3rd year Bachelor of Software Engineering student in Royal Melbourne Institute of Technology University.*
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&title_color=ffa412&include_all_commits=true&count_private=true&hide=issues,prs)](https://github.com/ChrisioGwaan) -->
+- :ledger: *Profolio in progress...*
 
 <!--
 Here are some ideas to get you started:
