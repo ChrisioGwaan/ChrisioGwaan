@@ -2,7 +2,7 @@
 
 - :ledger: **[Profolio](portfolio-xray.vercel.app)**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan\&show_icons=true\&count_private=true\&icon_color=ff91b5\&title_color=8cfa9e\&locale=en\&border_radius=22\&rank_icon=github\&show=prs_merged_percentage\&theme=transparent\&hide=issues,contribs\&card_width=400\&line_height=34)
+![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan\&show_icons=true\&count_private=true\&icon_color=ff91b5\&title_color=8cfa9e\&locale=en\&border_radius=22\&rank_icon=github\&show=prs_merged_percentage\&theme=transparent\&hide=issues,contribs\&card_width=350\&line_height=34)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan\&layout=compact\&border_radius=22\&size_weight=0.5&count_weight=0.5\&title_color=8cfa9e\&card_width=400\&count_private=true\&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
