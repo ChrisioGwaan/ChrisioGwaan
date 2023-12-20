@@ -1,5 +1,6 @@
+# 👋 `R.ok("Hi, welcome!")`
 
-- :ledger: *[Profolio](https://github.com/ChrisioGwaan/x-ray-portfo) in progress...*
+- :ledger: *[Profolio](portfolio-xray.vercel.app)*
 
 <!--
 Here are some ideas to get you started:
