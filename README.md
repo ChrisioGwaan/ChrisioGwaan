@@ -19,11 +19,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisioGwaan&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisioGwaan&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChrisioGwaan&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisioGwaan&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisioGwaan&theme=graywhite&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisioGwaan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisioGwaan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChrisioGwaan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisioGwaan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisioGwaan&theme=github&utcOffset=8)
 
 </div>
 
