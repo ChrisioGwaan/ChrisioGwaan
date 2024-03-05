@@ -14,9 +14,11 @@
 <img src="https://shields.io/badge/-tools-orange?style=for-the-badge" alt="Tools"> <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a><a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"><a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"></a><a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"></a><a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"></a><a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> 
 </p> -->
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan\&show_icons=true\&count_private=true\&icon_color=ff91b5\&title_color=8cfa9e\&locale=en\&border_radius=22\&rank_icon=github\&show=prs_merged_percentage\&theme=transparent\&hide=issues,contribs\&card_width=350\&line_height=34)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan\&layout=compact\&border_radius=22\&size_weight=0.5&count_weight=0.5\&title_color=8cfa9e\&card_width=400\&count_private=true\&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisioGwaan&theme=github)
@@ -26,6 +28,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisioGwaan&theme=github&utcOffset=8)
 
 </div>
+-->
 
 <a href="https://portfolio-xray.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-passing?style=for-the-badge&color=fcec3a" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/weixi-guan-705a48208/" style="display: inline-flex; justify-content: center; align-items: center;"><code><img height="20" width="20" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></code></a>
 <a href="https://drive.google.com/file/d/1c3BWtPdmhCS1RJPyLTmxrhih_7HqMtPs/view?usp=sharing" style="display: inline-flex; justify-content: center; align-items: center;"><code><img height="20" width="20" src="https://www.logo.wine/a/logo/WeChat/WeChat-App-Icon-Logo.wine.svg"></code></a>
