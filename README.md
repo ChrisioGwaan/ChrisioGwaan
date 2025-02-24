@@ -31,5 +31,5 @@
 </div>
 -->
 
-<a href="https://portfolio-cg-jet.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-passing?style=for-the-badge&color=fcec3a" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/weixi-guan-705a48208/" style="display: inline-flex; justify-content: center; align-items: center;"><code><img height="20" width="20" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></code></a>
+<a href="https://portfolio-xray.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-passing?style=for-the-badge&color=fcec3a" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/weixi-guan/" style="display: inline-flex; justify-content: center; align-items: center;"><code><img height="20" width="20" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png"></code></a>
 <a href="https://drive.google.com/file/d/1c3BWtPdmhCS1RJPyLTmxrhih_7HqMtPs/view?usp=sharing" style="display: inline-flex; justify-content: center; align-items: center;"><code><img height="20" width="20" src="https://www.logo.wine/a/logo/WeChat/WeChat-App-Icon-Logo.wine.svg"></code></a>
