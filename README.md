@@ -83,4 +83,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan&layout=compact&border_radius=22&size_weight=0.5&count_weight=0.5&title_color=8cfa9e&card_width=400&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ5czg4NG8yOWV5ZWM0OW9wYTNnZG5zaG9sdGloa2o0eHh5MGk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F2al3urenviSI/giphy.gif" width = 50px>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=ff91b5&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats)
