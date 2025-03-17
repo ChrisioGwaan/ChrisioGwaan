@@ -19,7 +19,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <p > A software engineer with a passion for creating and developing software solutions. I am a quick learner and a team player who is always eager to learn new technologies and methodologies.</p>
+  <p > A <i>software engineer</i> with a passion for creating and developing software solutions. I am currently working on a <b>full-stack SASS application</b> that allows multiple tenants to manage the business data on their own.</p>
 </p>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -77,11 +77,12 @@
 [//]: # '<img src="https://shields.io/badge/-tools-orange?style=for-the-badge" alt="Tools"> <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a><a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"><a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"></a><a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"></a><a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"></a><a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> '
 [//]: # "</p> -->"
 
-## GitHub Stats <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB6eGZlZ20yNzc0bncyNTB5MDd1dnVkZjY5c3hoc3FtZHRsaHlkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width = 50px>
+## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&show_icons=true&count_private=true&icon_color=ff91b5&title_color=8cfa9e&locale=en&border_radius=22&show=prs_merged_percentage,prs_merged&theme=transparent,contribs&card_width=350&line_height=30&include_all_commits=true&custom_title=Chrisio's+GitHub+Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&rank_icon=github&show_icons=true&count_private=true&icon_color=ff91b5&title_color=8cfa9e&locale=en&border_radius=22&show=prs_merged_percentage,prs_merged&theme=transparent,contribs&card_width=350&line_height=30&include_all_commits=true&custom_title=Chrisio's+GitHub+Stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan&layout=compact&border_radius=22&size_weight=0.5&count_weight=0.5&title_color=8cfa9e&card_width=400&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Streak <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ5czg4NG8yOWV5ZWM0OW9wYTNnZG5zaG9sdGloa2o0eHh5MGk3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F2al3urenviSI/giphy.gif" width = 50px>
+## GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=ff91b5&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats)
