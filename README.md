@@ -5,10 +5,6 @@
 </p>
 
 <p align ="center">
-  <img src="./assets/cg-dango.gif" width = 221px>
-</p>
-
-<p align ="center">
   <a  href="https://www.chrisiogwaan.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-8cfa9e?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="website"/>
   </a>
@@ -22,7 +18,7 @@
   <p > A <i>software engineer</i> with a passion for creating and developing software solutions. I am currently working on a <b>full-stack SASS application</b> that allows multiple tenants to manage the business data on their own.</p>
 </p>
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## Tech Stack
 
 ### Languages
 
