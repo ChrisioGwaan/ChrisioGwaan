@@ -1,7 +1,5 @@
-## Hi, I’m Weixi (Chrisio) Guan 🫡
-
 <p align ="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=8cfa9e&size=20&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Software+Engineer;Love+building+%26+learning+new+things!" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=8cfa9e&size=20&lines=Hi,+I’m+Weixi+(Chrisio)+Guan+🫡;Full-stack+Software+Engineer;Love+building+%26+learning+new+things!" />
 </p>
 
 <p align="left">
