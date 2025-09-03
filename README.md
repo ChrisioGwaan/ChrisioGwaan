@@ -23,7 +23,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&rank_icon=github&show_icons=true&count_private=true&icon_color=ff91b5&title_color=8cfa9e&locale=en&border_radius=22&show=prs_merged_percentage,prs_merged&theme=transparent,contribs&card_width=350&line_height=22&include_all_commits=true&custom_title=Chrisio's+GitHub+Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&rank_icon=github&show_icons=true&count_private=true&icon_color=8cfa9e&title_color=8cfa9e&locale=en&border_radius=22&show=prs_merged_percentage,prs_merged&theme=transparent,contribs&card_width=350&line_height=22&include_all_commits=true&custom_title=Chrisio's+GitHub+Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan&layout=compact&border_radius=22&size_weight=0.5&count_weight=0.5&title_color=8cfa9e&card_width=400&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [//]: # '<p align="left">'
