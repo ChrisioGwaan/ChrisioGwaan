@@ -48,7 +48,7 @@
 
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=8cfa9e&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats) --> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=8cfa9e&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats) -->
 
 # 👋 Hi, I'm Chrisio Gwaan
 
