@@ -1,4 +1,4 @@
-<p align ="left">
+<!-- <p align ="left">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=8cfa9e&size=20&lines=Hi,+I’m+Weixi+(Chrisio)+Guan+🫡;Full-stack+Software+Engineer;Love+building+%26+learning+new+things!" />
 </p>
 
@@ -48,4 +48,37 @@
 
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=8cfa9e&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisioGwaan&theme=transparent&border_radius=22&fire=8cfa9e&ring=8cfa9e&currStreakLabel=8cfa9e)](https://git.io/streak-stats) --> -->
+
+# 👋 Hi, I'm Chrisio Gwaan
+
+💻 **Associate Software Engineer** @ Bamboo Technologies  
+🌏 A legitimate Cantonese based in Guangzhou (粤 - Canton)
+
+ *Any hope for a better future comes from willing that future into being.*  
+
+---
+
+## 🚀 About Me
+- 🌱 Currently mastering **Full-Stack Development, Cloud, and AI Engineering**  
+- ☁️ Experienced with **Azure, Spring Boot, Next.js, FastAPI**  
+- 📚 Familiar with **Microsoft Power Platform** and its ecosystem  
+- 🤖 Building AI-powered solutions (chatbots, RAG pipelines, Copilot Studio integrations)  
+- 🍵 Co-Founder of **Guangzhou Wenxige Trade Co., Ltd.** – a traditional Chinese tea culture brand **since 2008**  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java · Python · C/C++ · Go · SQL · JavaScript/TypeScript  
+**Frameworks:** Spring Boot · FastAPI · Next.js · React · Flask  
+**Cloud & DevOps:** Azure · Docker · Jenkins · GitHub Actions  
+**Databases:** PostgreSQL · Cosmos DB · MySQL · Dataverse  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ChrisioGwaan&rank_icon=github&show_icons=true&count_private=true&icon_color=8cfa9e&title_color=8cfa9e&locale=en&border_radius=22&show=prs_merged_percentage,prs_merged&theme=transparent,contribs&card_width=350&line_height=30&include_all_commits=true&custom_title=Chrisio's+GitHub+Stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisioGwaan&layout=compact&border_radius=22&size_weight=0.5&count_weight=0.5&title_color=8cfa9e&card_width=400&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+✨ *“Any hope for a better future comes from willing that future into being.”*  
