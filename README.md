@@ -1,4 +1,4 @@
 # 👋 Hi, I'm Chrisio Gwaan
 
-💻 **Software Engineer** @ Bamboo Technologies  
+💻 **Software Engineer**
 🌏 Cantonese based in Guangzhou (粤 - Canton)
