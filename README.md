@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 💻 Software Engineer passionate about **scalable systems** and **clean architecture**
-- 🌏 Cantonese based in **Guangzhou (粤·Canton)**
+- 🌏 Based in **Melbourne, Australia** · Originally from **Guangzhou (粤·Canton)**
 - 🚀 I enjoy turning ideas into polished, production-ready products
 - 🛠️ Focused on writing maintainable code that teams can move fast with
 
@@ -72,6 +72,5 @@
 
 ### "Build useful things. Keep it simple. Ship it."
 
-<img src="assets/cg-dango.gif" width="180" alt="Chrisio mascot" />
 
 </div>
